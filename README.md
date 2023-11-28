@@ -105,8 +105,6 @@ Die Welt der tierischen Nicht-Hierarchie bietet nicht nur Einblicke in faszinier
 
 ---
 
-**Kontaktinformationen**
-
 **Carlo Oschkinat**
 
 **Agile Organisation - WS 2023**
