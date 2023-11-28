@@ -77,11 +77,11 @@ Gänse treffen demokratisch Entscheidungen über die Flugrichtung. Sie kommunizi
 ## Herausforderungen der Nicht-Hierarchie bei Tieren
 
 **Herausforderungen:**
-- **Koordination ohne klare Führung:** 
-- **Entscheidungsfindung ohne Hierarchie:** 
+- **Koordination ohne klare Führung** 
+- **Entscheidungsfindung ohne Hierarchie** 
 
 **Beispiele:**
-- **Schwarmintelligenz in der Luftfahrt:** 
+- **Schwarmintelligenz in der Luftfahrt** 
 
 ---
 
@@ -91,6 +91,8 @@ Gänse treffen demokratisch Entscheidungen über die Flugrichtung. Sie kommunizi
 - **Flexibilität in sich ändernden Umgebungen:** Wie Ameisen auf veränderte Umstände reagieren.
 - **Kollektive Intelligenz und diverse Perspektiven:** Wie diverse Fähigkeiten in tierischen Gruppen genutzt werden.
 - **Praktische Anwendungen für menschliche Organisationen:** Fließende Hierarchien in modernen Unternehmen.
+
+---
 
 **Beispiel:**
 - **Open Source Software-Entwicklung:** Kollektive Entscheidungsfindung und flexible Zusammenarbeit.
