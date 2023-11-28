@@ -3,6 +3,25 @@
 
 ---
 
+# Agenda
+
+1. **Was ist Nicht-Hierarchie bei Tieren?**
+
+2. **Arten der Nicht-Hierarchie**
+   - Swarm Intelligence
+   - Kollaborative Jagdtechniken
+   - Kommunikation ohne Anführer
+   - Verteilte Entscheidungsfindung
+
+3. **Kreative Adaptationen bei Tieren**
+   - Beispiele aus Ameisenkolonien, Wölfen, Delphinen und Gänseflügen.
+
+4. **Herausforderungen und Vorteile der Nicht-Hierarchie**
+
+5. **Schlussfolgerung und Übertragung auf menschliche Organisationen**
+
+---
+
 ## Was ist Nicht-Hierarchie bei Tieren?
 
 Nicht-Hierarchie in Tiergesellschaften bedeutet das Fehlen strikter Rangordnungen und dennoch erfolgreiche Zusammenarbeit. Eine faszinierende Dynamik, die wir erforschen werden.
