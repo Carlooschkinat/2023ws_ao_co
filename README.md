@@ -1,3 +1,3 @@
 # 2023ws_ao_co
 
-Präsentation: "Nicht-Hierarchische Organisation bei Tieren" für Agile Organisation von Carlo Oschkinat
+"Nicht-Hierarchische Organisation bei Tieren"
