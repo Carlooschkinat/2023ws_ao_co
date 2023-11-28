@@ -105,10 +105,10 @@ Die Welt der tierischen Nicht-Hierarchie bietet nicht nur Einblicke in faszinier
 
 ---
 
-# Kontaktinformationen
+**Kontaktinformationen**
 
 **Carlo Oschkinat**
 
-# Agile Organiastion - WS 2023
+**Agile Organisation - WS 2023**
 
 **Dozent: Prof. Dr. Ulrich Anders**
