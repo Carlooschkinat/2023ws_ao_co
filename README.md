@@ -102,3 +102,13 @@ Gänse treffen demokratisch Entscheidungen über die Flugrichtung. Sie kommunizi
 ## Schlussfolgerung und Übertragung auf menschliche Organisationen
 
 Die Welt der tierischen Nicht-Hierarchie bietet nicht nur Einblicke in faszinierende Mechanismen, sondern auch Inspiration für menschliche Organisationen.
+
+---
+
+# Kontaktinformationen
+
+**Carlo Oschkinat**
+
+# Agile Organiastion - WS 2023
+
+**Dozent: Prof. Dr. Ulrich Anders**
