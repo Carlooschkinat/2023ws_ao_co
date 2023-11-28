@@ -81,7 +81,7 @@ Open Source Software-Entwicklung: Kollektive Entscheidungsfindung und flexible Z
 
 ---
 
-# Schluss-folgerung und Übertragung auf menschliche Organisationen
+# Schlussfolgerung
 
 ---
 
