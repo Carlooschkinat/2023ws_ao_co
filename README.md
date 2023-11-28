@@ -22,13 +22,13 @@
 
 ---
 
-## Was ist Nicht-Hierarchie bei Tieren?
+# Was ist Nicht-Hierarchie bei Tieren?
 
 Nicht-Hierarchie in Tiergesellschaften bedeutet das Fehlen strikter Rangordnungen und dennoch erfolgreiche Zusammenarbeit. Eine faszinierende Dynamik, die wir erforschen werden.
 
 ---
 
-## Arten der Nicht-Hierarchie
+# Arten der Nicht-Hierarchie
 
 1. **Swarm Intelligence**
     - Kollektive Entscheidungsfindung in Ameisenkolonien und Bienenstöcken.
@@ -44,64 +44,74 @@ Nicht-Hierarchie in Tiergesellschaften bedeutet das Fehlen strikter Rangordnunge
 
 ---
 
-## Kreative Adaptationen bei Tieren
+# Kreative Adaptationen bei Tieren
 
-### 1. Swarm Intelligence: Ameisenkolonien
+---
 
-#### Beispiel: Ameisen wählen den besten Weg
+## 1. Swarm Intelligence: Ameisenkolonien
+
+### Beispiel: Ameisen wählen den besten Weg
 In Ameisenkolonien entscheiden Tausende von Individuen kollektiv über den besten Weg zur Nahrungsquelle. Jede Ameise hinterlässt Pheromone, die von anderen wahrgenommen werden. Der Weg mit den stärksten Pheromonspuren wird bevorzugt, was zu effizienten und adaptiven Entscheidungen führt.
 
 ---
 
-### 2. Kollaborative Jagdtechniken: Orcas
+## 2. Kollaborative Jagdtechniken: Orcas
 
-#### Beispiel: Orcas bei der Robbenjagd
+### Beispiel: Orcas bei der Robbenjagd
 Orcas jagen in Gruppen, aber ohne feste Hierarchie. Sie koordinieren sich, um gemeinsam Robben zu fangen. Jedes Mitglied hat eine Rolle, und die Zusammenarbeit ermöglicht es ihnen, auch größere Beute zu erlegen.
 
 ---
 
-### 3. Kommunikation ohne Anführer: Delphine
+## 3. Kommunikation ohne Anführer: Delphine
 
-#### Beispiel: Delphin-Dialoge
+### Beispiel: Delphin-Dialoge
 Delphine kommunizieren auf komplexe Weise miteinander, ohne einen klaren Anführer zu haben. Ihr Verständnis für die Bedeutung von Klicks und Pfeiftönen ermöglicht eine reibungslose Interaktion und Zusammenarbeit.
 
 ---
 
-### 4. Verteilte Entscheidungsfindung: Gänseflug
+## 4. Verteilte Entscheidungsfindung: Gänseflug
 
-#### Beispiel: Gänse wählen die Flugrichtung
+### Beispiel: Gänse wählen die Flugrichtung
 Gänse treffen demokratisch Entscheidungen über die Flugrichtung. Sie kommunizieren lautstark miteinander und stimmen darüber ab, in welche Richtung sie fliegen werden. Diese kollektive Entscheidungsfindung ermöglicht es der Gruppe, sich flexibel an verschiedene Umweltbedingungen anzupassen.
 
 ---
 
-## Herausforderungen der Nicht-Hierarchie bei Tieren
-
-**Herausforderungen:**
-- **Koordination ohne klare Führung** 
-- **Entscheidungsfindung ohne Hierarchie** 
-
-**Beispiele:**
-- **Schwarmintelligenz in der Luftfahrt** 
+# Vorteile der Nicht-Hierarchie bei Tieren
 
 ---
 
-## Vorteile der Nicht-Hierarchie bei Tieren
+## Vorteile
 
-**Vorteile:**
 - **Flexibilität in sich ändernden Umgebungen:** Wie Ameisen auf veränderte Umstände reagieren.
 - **Kollektive Intelligenz und diverse Perspektiven:** Wie diverse Fähigkeiten in tierischen Gruppen genutzt werden.
 - **Praktische Anwendungen für menschliche Organisationen:** Fließende Hierarchien in modernen Unternehmen.
-
----
 
 **Beispiel:**
 - **Open Source Software-Entwicklung:** Kollektive Entscheidungsfindung und flexible Zusammenarbeit.
 
 ---
 
-## Schlussfolgerung und Übertragung auf menschliche Organisationen
+# Nachteile der Nicht-Hierarchie bei Tieren
+
+---
+
+## Nachteile
+
+- **Mangelnde schnelle Entscheidungsfindung:** In Situationen, die eine sofortige Reaktion erfordern, kann die fehlende Hierarchie zu Verzögerungen in der Entscheidungsfindung führen.
+- **Unklare Verantwortlichkeiten:** Ohne klare Rangordnung kann die Zuweisung von Verantwortlichkeiten schwierig sein, was zu Unsicherheiten und Ineffizienzen führen kann.
+- **Koordination ohne klare Führung**
+
+---
+
+# Schlussfolgerung und Übertragung auf menschliche Organisationen
 
 Die Welt der tierischen Nicht-Hierarchie bietet nicht nur Einblicke in faszinierende Mechanismen, sondern auch Inspiration für menschliche Organisationen.
+
+---
+
+# Vielen Dank für Ihre Aufmerksamkeit
+
+**Gibt es noch Fragen?**
 
 ---
 
