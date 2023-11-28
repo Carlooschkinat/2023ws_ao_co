@@ -21,15 +21,7 @@ Nicht-Hierarchie in Tiergesellschaften bedeutet das Fehlen strikter Rangordnunge
 
 ---
 
-# Arten der Nicht-Hierarchie
-
-1. **Swarm Intelligence**
-
-2. **Kollaborative Jagdtechniken**
-
-3. **Kommunikation ohne Anführer**
-
-4. **Verteilte Entscheidungsfindung**
+![Arten von Nicht-Hierarchie](<Picture Black.png>)
 
 ---
 
@@ -84,7 +76,7 @@ Open Source Software-Entwicklung: Kollektive Entscheidungsfindung und flexible Z
 
 ## Herausforderungen
 
-- **Entscheidungsfindung:** In Situationen, die schnelle Entscheidungen erfordern, kann die fehlende Hierarchie zu Verzögerungen führen. Es kann schwierig sein, eine Einigung zu erzielen und Entscheidungen effizient zu treffen.
+- **Entscheidungsfindung:** In Situationen, die schnelle Entscheidungen erfordern, kann die fehlende Hierarchie zu Verzögerungen führen.
 - **Unklare Verantwortlichkeiten:** Ohne eine klare Rangordnung kann es schwierig sein, Verantwortlichkeiten zuzuweisen und Entscheidungen zu treffen, wer für bestimmte Aufgaben oder Probleme verantwortlich ist.
 
 ---
