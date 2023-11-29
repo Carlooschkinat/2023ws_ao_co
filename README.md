@@ -5,13 +5,13 @@
 
 # Agenda
 
-1. **Was ist Nicht-Hierarchie bei Tieren?**
+1. **Was ist Nicht-Hierarchische Organisation bei Tieren?**
 
 2. **Arten der Nicht-Hierarchie**
 
-4. **Vorteile und Herausforderung der Nicht-Hierarchie**
+4. **Vorteile und Herausforderung**
 
-5. **Schlussfolgerung und Übertragung auf menschliche Organisationen**
+5. **Schlussfolgerung**
 
 ---
 
@@ -21,7 +21,7 @@ Nicht-Hierarchie in Tiergesellschaften bedeutet das Fehlen strikter Rangordnunge
 
 ---
 
-![Arten von Nicht-Hierarchie](<Picture Black.png>)
+![Picture](<Picture Black.png>)
 
 ---
 
@@ -74,14 +74,12 @@ Open Source Software-Entwicklung: Kollektive Entscheidungsfindung und flexible Z
 
 ---
 
-## Herausforderungen
-
 - **Entscheidungsfindung:** In Situationen, die schnelle Entscheidungen erfordern, kann die fehlende Hierarchie zu Verzögerungen führen.
 - **Unklare Verantwortlichkeiten:** Ohne eine klare Rangordnung kann es schwierig sein, Verantwortlichkeiten zuzuweisen und Entscheidungen zu treffen, wer für bestimmte Aufgaben oder Probleme verantwortlich ist.
 
 ---
 
-# Schlussfolgerung
+# Schluss-folgerung
 
 ---
 
@@ -90,8 +88,6 @@ Die Welt der tierischen Nicht-Hierarchie bietet nicht nur Einblicke in faszinier
 ---
 
 # Vielen Dank für Ihre Aufmerksamkeit
-
-**Gibt es noch Fragen?**
 
 ---
 
