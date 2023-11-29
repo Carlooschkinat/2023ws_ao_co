@@ -3,7 +3,7 @@
 
 ---
 
-# Agenda
+## Agenda
 
 1. **Was ist Nicht-Hierarchische Organisation bei Tieren?**
 
@@ -15,9 +15,9 @@
 
 ---
 
-# Was ist Nicht-Hierarchie bei Tieren?
+## Was ist Nicht-Hierarchie bei Tieren?
 
-Nicht-Hierarchie in Tiergesellschaften bedeutet das Fehlen strikter Rangordnungen und dennoch erfolgreiche Zusammenarbeit.
+Eine nicht-hierarchische Organisation bei Tieren bezieht sich auf das Fehlen einer klar definierten Rangordnung oder Hierarchie innerhalb einer Gruppe oder Population.
 
 ---
 
@@ -25,7 +25,7 @@ Nicht-Hierarchie in Tiergesellschaften bedeutet das Fehlen strikter Rangordnunge
 
 ---
 
-## 1. Swarm Intelligence:
+## 1. Schwarmintelligenz:
 
 ### Beispiel: Ameisen wählen den besten Weg
 In Ameisenkolonien entscheiden Tausende von Individuen kollektiv über den besten Weg zur Nahrungsquelle. Jede Ameise hinterlässt Pheromone, die von anderen wahrgenommen werden. Der Weg mit den stärksten Pheromonspuren wird bevorzugt, was zu effizienten und adaptiven Entscheidungen führt.
@@ -53,7 +53,7 @@ Gänse treffen demokratisch Entscheidungen über die Flugrichtung. Sie kommunizi
 
 ---
 
-# Vorteile der Nicht-Hierarchie bei Tieren
+## Vorteile der Nicht-Hierarchie bei Tieren
 
 ---
 
@@ -70,7 +70,7 @@ Open Source Software-Entwicklung: Kollektive Entscheidungsfindung und flexible Z
 
 ---
 
-# Herausforderungen der Nicht-Hierarchie bei Tieren
+## Herausforderungen der Nicht-Hierarchie bei Tieren
 
 ---
 
@@ -79,7 +79,7 @@ Open Source Software-Entwicklung: Kollektive Entscheidungsfindung und flexible Z
 
 ---
 
-# Schluss-folgerung
+## Schlussfolgerung
 
 ---
 
@@ -87,7 +87,7 @@ Die Welt der tierischen Nicht-Hierarchie bietet nicht nur Einblicke in faszinier
 
 ---
 
-# Vielen Dank für Ihre Aufmerksamkeit
+## Vielen Dank für Ihre Aufmerksamkeit
 
 ---
 
